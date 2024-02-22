@@ -1,2 +1,2 @@
-# WebDev
-This is a Demo for Git &amp; GitHub class
+# WebDev-demo
+This is a Demo for Git &amp; GitHub class.
