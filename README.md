@@ -2,4 +2,4 @@
 This is a Demo for Git &amp; GitHub class.
 
 # Demo
-this for demo.
+This for demo.
